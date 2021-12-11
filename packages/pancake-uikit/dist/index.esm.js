@@ -5008,7 +5008,7 @@ var Menu = function (_a) {
                 React.createElement("li", null,
                     React.createElement("a", { href: "/farms" }, "Farms")),
                 React.createElement("li", null,
-                    React.createElement("a", { href: "/pools" }, "Pools")),
+                    React.createElement("a", { href: "/dividend-burn-pots" }, "Divident Pots")),
                 React.createElement("li", null,
                     React.createElement("a", { href: "/bonds" }, "Bonds")),
                 React.createElement("li", null,

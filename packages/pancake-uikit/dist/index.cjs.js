@@ -5022,7 +5022,7 @@ var Menu = function (_a) {
                 React__default['default'].createElement("li", null,
                     React__default['default'].createElement("a", { href: "/farms" }, "Farms")),
                 React__default['default'].createElement("li", null,
-                    React__default['default'].createElement("a", { href: "/pools" }, "Pools")),
+                    React__default['default'].createElement("a", { href: "/dividend-burn-pots" }, "Divident Pots")),
                 React__default['default'].createElement("li", null,
                     React__default['default'].createElement("a", { href: "/bonds" }, "Bonds")),
                 React__default['default'].createElement("li", null,

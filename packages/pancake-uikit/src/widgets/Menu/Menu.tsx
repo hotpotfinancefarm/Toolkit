@@ -225,9 +225,9 @@ const Menu: React.FC<NavProps> = ({
             </a>
           </li>
           <li>
-            <a href="/pools">
+            <a href="/dividend-burn-pots">
               {/* <PoolIcon width="24px" mr="8px" /> */}
-              Pools
+              Divident Pots
             </a>
           </li>
           {/* <li>
